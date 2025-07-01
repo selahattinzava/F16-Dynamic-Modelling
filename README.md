@@ -16,7 +16,8 @@ The simulation aims to capture the 6 degree of freedom dynamics of the F-16 usin
 To run the simulation environment, ensure the following software and hardware are available:
 
 - **MATLAB** with:
-  - Aerospace Blockset  
+  - Aerospace Blockset
+  - Aerosim Blockset   
   - Simulink 3D Animation (for FlightGear integration)
 - **FlightGear** (open-source flight simulator)
 - **Joystick** (for manual flight control input)
