@@ -7,7 +7,7 @@ This project focuses on the **dynamic modeling and basic pitch/roll/yaw control 
 
 ## 🔧 Project Description
 
-The simulation aims to capture the longitudinal dynamics of the F-16 using realistic aerodynamic and propulsion data derived from the NASA report. The data is provided in `.mat` files, which must be loaded before running the model.
+The simulation aims to capture the 6 degree of freedom dynamics of the F-16 using realistic aerodynamic and propulsion data derived from the NASA report. The data is provided in `.mat` files, which must be loaded before running the model.
 
 > ⚠️ **Note:** Pitch control need an update.
 
