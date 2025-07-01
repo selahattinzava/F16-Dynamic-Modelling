@@ -1,6 +1,6 @@
 # F-16 Dynamic Modeling and Simulation (0–0.6 Mach)
 
-This project focuses on the **dynamic modeling of the F-16 fighter aircraft** in the subsonic flight regime (Mach 0–0.6), based on the NASA technical report:
+This project focuses on the **dynamic modeling and basic pitch/roll/yaw control of the F-16 fighter aircraft** in the subsonic flight regime (Mach 0–0.6), based on the NASA technical report:
 
 > **Nguyen, L. T., Ogburn, M. E., Gilbert, W. P., Kibler, K. S., Brown, P. W., & Deal, P. L. (1979).**  
 > *Simulator Study of Stall/Post-Stall Characteristics of a Fighter Airplane With Relaxed Longitudinal Static Stability*. NASA TP-1538.
